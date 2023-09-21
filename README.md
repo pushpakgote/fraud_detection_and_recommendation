@@ -63,5 +63,7 @@ To use these scripts, follow these steps:
 
 - This is an unsupervised learning problem, and the clustering analysis in `clustering.py` includes graphical representations, making it easy to see clusters.
 
+- Here suspicious or fraud product refers to the products with very less ratings and are selling at very high discount percent (like 80% discount or more). This setting is subjective and you can change it according to your choice. 
+
 - The provided clustering and recommendation scripts are designed for educational purposes and can be further customized and extended based on your specific requirements.
 
