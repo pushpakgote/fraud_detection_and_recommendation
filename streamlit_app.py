@@ -95,7 +95,7 @@ def recommend_and_detect_fraud_item(df,index,filename):
 st.set_page_config(page_title="Fraudulent Product Detection and Recommendation", layout="wide")
 
 with st.sidebar:
-    st.image("img2.png",width=300)
+    st.image("recommended_img.png",width=300)
     st.markdown("<h1 style='text-align: center;'>Fraudulent Product Detection and Recommendation</h1>", unsafe_allow_html=True)
     st.info("This webapp checks if product is suspicious and recommends better products.")
     st.info("For full code, head on to [@pushpakgote/fraud_detection_and_recommendation](https://github.com/pushpakgote/fraud_detection_and_recommendation)")
